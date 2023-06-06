@@ -17,10 +17,10 @@ function App() {
         add the component 'MyComponent' (from the 'src/components' folder) to the site. Here's a tip: when you run the 
         React app, it should auto-reload when you save files, so any changes you make to the site will be reflected there.
       </p>
-      {/* add the following line below to add 'MyComponent' to the page: 
+      {/* add the following line on an empty line below to add 'MyComponent' to the page: 
           <MyComponent></MyComponent>  
         */}
-      <MyComponent></MyComponent>  
+      
       {/* You can also try adding 'MyComponent' any number of times to this component to display is again and again.*/}
       <p>Addendum: You may also note that there are a variety of ways to write a React app, and from 
         this point onwards, we will be using functional components and TypeScript. Function-based components are newer and
